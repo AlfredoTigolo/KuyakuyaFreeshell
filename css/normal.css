@@ -1,0 +1,8 @@
+body { background-color: navy; color: cyan; font-family: "Arial", san-serif;
+	font-weight: bolder}
+h1 { text-indent: 0.5in }
+a:link { color: yellow; font-weight: bolder ; text-decoration: none}
+a:visited { color: magenta; text-decoration: none }
+a:hover { color: white; font-weight: bolder; text-decoration: underline }
+a:active { background-color: yellow; color: navy ; text-decoration: none }
+i { color: lime }
